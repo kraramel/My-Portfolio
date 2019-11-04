@@ -1,0 +1,7 @@
+
+
+## 1 Exporting the environnement variable => set FLASK_APP=server.py
+
+## 2 (Optional) Activating the debug mode => set FLASK_ENV=development
+
+## 3 lunching the server                  => flask run
